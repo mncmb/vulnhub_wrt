@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Fri Jul  5 10:11:20 2019 as: nmap -A -T4 -oA bob_nmap_scan 10.0.2.6
+Host: 10.0.2.6 ()	Status: Up
+Host: 10.0.2.6 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.25 ((Debian))/	Ignored State: closed (999)	OS: Linux 3.2 - 4.9	Seq Index: 262	IP ID Seq: All zeros
+# Nmap done at Fri Jul  5 10:11:29 2019 -- 1 IP address (1 host up) scanned in 9.04 seconds

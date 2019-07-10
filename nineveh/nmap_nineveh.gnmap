@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Mon Jul  8 13:10:52 2019 as: nmap -A -T4 -oA nmap_nineveh 192.168.0.150
+Host: 192.168.0.150 ()	Status: Up
+Host: 192.168.0.150 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.18 ((Ubuntu))/, 443/open/tcp//ssl|http//Apache httpd 2.4.18 ((Ubuntu))/	Ignored State: filtered (998)	OS: Linux 3.10 - 4.11|Linux 3.16 - 4.6|Linux 3.2 - 4.9|Linux 4.4	Seq Index: 262	IP ID Seq: All zeros
+# Nmap done at Mon Jul  8 13:11:25 2019 -- 1 IP address (1 host up) scanned in 34.14 seconds

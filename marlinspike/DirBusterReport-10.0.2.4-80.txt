@@ -1,0 +1,93 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Fri May 17 17:59:53 EDT 2019
+--------------------------------
+
+http://10.0.2.4:80
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 200 response:
+
+/
+/secret/
+/secret/wp-content/
+/secret/wp-content/themes/
+/secret/wp-content/plugins/
+/secret/wp-includes/
+/secret/wp-includes/images/
+/secret/wp-includes/images/crystal/
+/secret/wp-includes/images/media/
+/secret/wp-includes/images/smilies/
+/secret/wp-includes/images/wlw/
+/secret/wp-content/upgrade/
+/secret/wp-includes/css/
+/secret/wp-includes/js/
+/secret/wp-includes/widgets/
+
+Dirs found with a 403 response:
+
+/icons/
+/icons/small/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 301 responce:
+
+/secret/index.php
+
+Files found with a 200 responce:
+
+/secret/wp-content/index.php
+/secret/wp-content/themes/index.php
+/secret/wp-login.php
+/secret/wp-content/plugins/index.php
+/secret/wp-includes/category.php
+/secret/wp-includes/user.php
+/secret/wp-includes/feed.php
+/secret/wp-includes/images/crystal/license.txt
+/secret/wp-includes/version.php
+/secret/wp-includes/post.php
+/secret/wp-includes/comment.php
+/secret/wp-includes/template.php
+/secret/wp-includes/date.php
+/secret/wp-includes/query.php
+/secret/wp-includes/taxonomy.php
+/secret/wp-includes/cache.php
+/secret/wp-includes/theme.php
+/secret/wp-includes/http.php
+/secret/wp-includes/meta.php
+/secret/wp-includes/widgets.php
+/secret/wp-includes/cron.php
+/secret/wp-includes/bookmark.php
+
+Files found with a 500 responce:
+
+/secret/wp-includes/rss.php
+/secret/wp-includes/media.php
+/secret/wp-includes/registration.php
+/secret/wp-includes/update.php
+/secret/wp-includes/widgets/class-wp-nav-menu-widget.php
+/secret/wp-includes/widgets/class-wp-widget-archives.php
+/secret/wp-includes/widgets/class-wp-widget-calendar.php
+/secret/wp-includes/widgets/class-wp-widget-categories.php
+/secret/wp-includes/widgets/class-wp-widget-custom-html.php
+/secret/wp-includes/widgets/class-wp-widget-links.php
+/secret/wp-includes/widgets/class-wp-widget-media-audio.php
+/secret/wp-includes/widgets/class-wp-widget-media-gallery.php
+/secret/wp-includes/widgets/class-wp-widget-media-image.php
+/secret/wp-includes/widgets/class-wp-widget-media-video.php
+/secret/wp-includes/widgets/class-wp-widget-media.php
+/secret/wp-includes/widgets/class-wp-widget-meta.php
+/secret/wp-includes/widgets/class-wp-widget-pages.php
+/secret/wp-includes/widgets/class-wp-widget-recent-comments.php
+/secret/wp-includes/widgets/class-wp-widget-recent-posts.php
+/secret/wp-includes/widgets/class-wp-widget-rss.php
+/secret/wp-includes/widgets/class-wp-widget-search.php
+/secret/wp-includes/widgets/class-wp-widget-tag-cloud.php
+/secret/wp-includes/widgets/class-wp-widget-text.php
+
+
+--------------------------------
